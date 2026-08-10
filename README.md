@@ -1,6 +1,6 @@
-# IIIT Hyderabad - UG2K25 PYQs 📚
+# UG2K25 PYQs - IIIT Hyderabad 📚
 
-This is a collection of previous year questions (PYQs) for UG2K25 courses at IIIT Hyderabad that I could find.
+This is a collection of question papers of UG2K25 batch at IIIT Hyderabad that I found.
 
 ---
 
