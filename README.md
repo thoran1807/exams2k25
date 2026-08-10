@@ -1,6 +1,6 @@
-# IIIT Hyderabad - UG2K25 PYQs & Course Papers 📚
+# IIIT Hyderabad - UG2K25 PYQs 📚
 
-Welcome to the official repository of Previous Year Questions (PYQs) and exam papers for the **UG2K25 batch at IIIT Hyderabad**. This repository serves as a centralized hub to help students access course resources, prepare for exams, and contribute to a shared archive.
+This is a collection of previous year questions (PYQs) for UG2K25 courses at IIIT Hyderabad that I could find.
 
 ---
 
@@ -52,36 +52,6 @@ The papers are organized by semester, subject, and exam type. Click on any of th
 
 ---
 
-## 🏷️ File Naming Convention
-
-To keep the repository clean and structured, please name any new exam paper files using the following format:
-
-```text
-[SUBJECT_CODE]_[ExamType]_[Year].pdf
-```
-
-*   **Examples**:
-    *   `CPRO_mid_2025.pdf` (Computer Programming, Mid-Semester, 2025)
-    *   `DSA_end_2026.pdf` (Data Structures & Algorithms, End-Semester, 2026)
-    *   `LA_quiz1_2026.pdf` (Linear Algebra, Quiz 1, 2026)
-
----
-
-## 🤝 How to Contribute
-
-Contributions from fellow batchmates and juniors are highly appreciated! If you have any papers that are missing, please follow these steps to add them:
-
-1.  **Fork** this repository.
-2.  Navigate to the correct folder: `papers/Semester [N]/[Subject Name]/`.
-    *   If the subject folder does not exist, feel free to create it.
-3.  Upload the PDF file following the **File Naming Convention** above.
-4.  Commit your changes with a descriptive message (e.g., `Add DSA Endsem 2026 paper`).
-5.  Create a **Pull Request (PR)** back to this repository.
-
-*Alternatively, if you're not familiar with Git, you can share the papers with any repository maintainer to have them uploaded.*
-
----
-
 ## ⚠️ Disclaimer
 
-*This repository is built and maintained by students for educational and reference purposes only. The contents here are not officially affiliated with IIIT Hyderabad administration.*
+*This repository is built and maintained by me for educational and reference purposes only. The contents here are not officially affiliated with IIIT Hyderabad administration.*
